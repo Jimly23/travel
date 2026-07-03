@@ -20,7 +20,7 @@ export default function Navbar() {
   return (
     <nav className="fixed top-0 w-full z-50 bg-surface/90 glass-nav border-b border-outline-variant shadow-sm h-20 transition-all duration-300">
       <div className="flex justify-between items-center h-full md:px-margin-desktop px-margin-mobile max-w-max mx-auto">
-        <span className="font-bold text-secondary text-2xl">DaffaTrans.</span>
+        <span className="font-bold text-secondary text-2xl">DaffaTravel.</span>
         
         {/* Desktop Navigation */}
         <div className="hidden md:flex items-center gap-6 lg:gap-8 cursor-pointer">
