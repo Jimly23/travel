@@ -12,8 +12,8 @@ export default function Hero() {
       />
       <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/60 to-black/40" />
       <div className="relative z-10 mx-auto w-full max-w-max flex justify-center">
-        <div className="max-w-3xl flex flex-col items-center text-center pt-12 md:pt-0">
-          <span className="mb-6 hidden md:inline-block mb-10 rounded-full border border-white/20 bg-white/10 px-5 py-2 text-sm font-semibold tracking-wide text-white backdrop-blur-md">
+        <div className="max-w-3xl text-white/80 flex flex-col items-center text-center pt-12 md:pt-0">
+          <span className="mb-6 hidden md:inline-block mb-10 rounded-full border border-white/20 bg-white/10 px-5 py-2 text-sm font-semibold tracking-wide backdrop-blur-md">
             Travel Premium & Antar Jemput
           </span>
           <h1 className="text-5xl">
